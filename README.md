@@ -1,6 +1,6 @@
 # G.A.N
 The code used for training and generating with G.A.N, a Generative Adversarial Network that generates MNIST like instances of the letters G, A and N.
-![Alt text](name-of-gif-file.gif) / ![](name-of-gif-file.gif)
+![Alt text](download.gif) / ![](download.gif)
 
 # Files
 

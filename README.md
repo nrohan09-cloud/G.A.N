@@ -1,7 +1,7 @@
 # G.A.N
 The code used for training and generating with G.A.N, a Generative Adversarial Network that generates MNIST like instances of the letters G, A and N.
 
-![](download.gif)
+![](dcgan (1).gif)
 
 # Files
 
